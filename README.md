@@ -19,3 +19,16 @@ git clone
 cd predictive_maintenance_advanced
 pip install -r requirements.txt
 streamlit run app.py
+
+## Структура репозитория
+- `app.py`: Основной файл приложения.
+- `analysis_and_model.py`: Страница с анализом данных и моделью.
+- `presentation.py`: Страница с презентацией проекта.
+- `EDA_Exploratory_Data_Analysis.py`: Модуль анализа данных продвинутого уровня (корреляций, PCA, визуализации распределений).
+- `requirements.txt`: Файл с зависимостями.
+- `data/`: Папка с данными.
+- `README.md`: Описание проекта.
+
+## Видео-демонстрация
+[Ссылка на видео](video/demo.mp4)
+<video src="video/demo.mp4" controls width="100%"></video>
