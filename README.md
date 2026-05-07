@@ -16,7 +16,6 @@
 ## Установка и запуск
 ```bash
 git clone https://github.com/imfl1ght/predictive_maintenance_project.git
-cd predictive_maintenance_advanced
 pip install -r requirements.txt
 streamlit run app.py
 ```
